@@ -1,3 +1,4 @@
+#find a factorial of any number using faction
 def factorial(num):
     if num == 1:
         return num
