@@ -1,6 +1,6 @@
 # Python-Basic-Programs-Practics
 
-## factorial.py 
+## Factorial.py 
 
 User enter any number and find factorial of number (using python faction).
 
