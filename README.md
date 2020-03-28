@@ -10,5 +10,5 @@ User enter any number and find factorial of number (using python if else conditi
 
 ## Palindrome.py
 
-User enter program to check whether a number is Palindrome or not
+User enter any numbers  check whether a number is Palindrome or not
 
